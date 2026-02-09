@@ -1,0 +1,10 @@
+name: bis312-ml
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - scikit-learn
+  - matplotlib
+  - scipy
+  - numpy
+prefix: /home/mb1ims/mambaforge/envs/bis312-ml
