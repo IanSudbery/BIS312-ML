@@ -3,9 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - ipykernel
-  - scikit-learn
+  - scikit-learn=1.8.0
   - matplotlib
   - scipy
   - numpy
   - py-xgboost
+  - pandas
 prefix: /home/mb1ims/mambaforge/envs/bis312-ml
