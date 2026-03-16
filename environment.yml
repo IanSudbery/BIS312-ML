@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - ipykernel
-  - scikit-learn=1.8.0
+  - scikit-learn
   - matplotlib
   - scipy
   - numpy
